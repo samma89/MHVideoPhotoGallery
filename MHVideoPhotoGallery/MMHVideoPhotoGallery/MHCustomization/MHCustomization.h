@@ -22,6 +22,7 @@ typedef NS_ENUM(NSUInteger, MHBackButtonState) {
 @property (nonatomic)       BOOL interactiveDismiss; //Default YES
 @property (nonatomic)       BOOL dismissWithScrollGestureOnFirstAndLastImage;//Default YES
 @property (nonatomic)       BOOL fixXValueForDismiss; //Default NO
+@property (nonatomic)       BOOL test; //Default NO
 @end
 
 
